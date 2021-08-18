@@ -1,4 +1,4 @@
-# Analyzing_USA_Economic_Status_using_DataScience
+# Analyzing_USA_Economic_data_using_DataScience
 
 ### The Aim of the work is to proove the direct relationship between GDP and Unemployment.
 
